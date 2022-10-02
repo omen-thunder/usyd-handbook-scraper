@@ -1,4 +1,4 @@
-# USYD Handbook Scaper
+# USYD Handbook Scraper
 This tool catalogs and compares the University of Sydney's available units of study by year and faculty.
 The units of study are scraped from the [USYD handbooks online website](https://www.sydney.edu.au/handbooks/).
 
